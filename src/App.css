@@ -1,0 +1,22 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+
+/* footer */
+footer {
+    background-color: #333;
+    padding: .75rem;
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    font-size: .75rem;
+    position: fixed;
+    left: 0;
+  bottom: 0;
+  width: 100%;
+
+
+  }

@@ -1,0 +1,15 @@
+
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="page-footer text-white-50 footer-portafolio"
+  data-testid="footer"
+>
+  <br />
+  <p
+    className="text-white"
+  >
+  </p>
+</div>
+`;

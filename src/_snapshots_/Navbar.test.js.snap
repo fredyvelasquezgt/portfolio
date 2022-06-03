@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    className="d-flex h-100 text-center text-white bg-portada contenedor-inicial"
+  >
+    <div
+      className="cover-container d-flex w-100 h-100 p-3 flex-column"
+    >
+      <header
+        className="mb-autont"
+      >
+        <div>
+          <h3
+            className="float-md-start mb-0"
+          >
+            JJHH
+          </h3>
+          <nav
+            className="nav nav-masthead justify-content-center float-md-end"
+          >
+            <a
+              aria-current="page"
+              className="nav-link active"
+              data-testid="link-acerca-de"
+              href="#home"
+            >
+                Hola, soy Fredy
+            </a>
+            <a
+              className="nav-link"
+              data-testid="link-curriculum"
+              href="#skills"
+            >
+              Skills
+            </a>
+            <a
+              className="nav-link"
+              data-testid="link-proyectos"
+              href="#proyectos"
+            >
+              Proyectos
+            </a>
+          </nav>
+        </div>
+      </header>
+      <main
+        className="portada-container"
+      >
+        <h1
+          className="display-2"
+          data-testid="texto-portada"
+        >
+          <b>
+            2022
+          </b>
+        </h1>
+     
+      </main>
+    </div>
+  </div>
+</div>
+`;
